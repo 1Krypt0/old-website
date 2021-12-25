@@ -2,7 +2,30 @@ baseURL = 'http://tiagopbrodrigues.com/'
 languageCode = 'en-us'
 title = "Hey guys, I'm Tiago"
 theme = "hello-friend-ng"
-paginate     = 10
+paginate = 10
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+canonifyURLs = true
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+
+[author]
+  name = "Tiago Rodrigues"
 
 [params]
   dateform        = "Jan 2, 2006"
