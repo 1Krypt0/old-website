@@ -10,22 +10,6 @@ dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
 
-canonifyURLs = true
-enableRobotsTXT = true
-enableGitInfo   = false
-enableEmoji     = true
-enableMissingTranslationPlaceholders = false
-disableRSS     = false
-disableSitemap = false
-disable404     = false
-disableHugoGeneratorInject = false
-
-[permalinks]
-  posts = "/posts/:year/:month/:title/"
-
-
-[author]
-  name = "Tiago Rodrigues"
 
 [params]
   dateform        = "Jan 2, 2006"
