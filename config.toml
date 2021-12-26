@@ -8,9 +8,7 @@ archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
 layoutDir    = "layouts"
-publishDir   = "docs"
-
-canonifyUrls = true
+publishDir   = "public"
 
 [permalinks]
   post = "/:slug/"
@@ -87,9 +85,9 @@ canonifyUrls = true
   [[menu.main]]
     identifier = "blog"
     name       = "Blog"
-    url        = "/posts"
+    url        = "/posts/"
 
   [[menu.main]]
     identifier = "about"
     name       = "About Me"
-    url        = "/about"
+    url        = "/about/"

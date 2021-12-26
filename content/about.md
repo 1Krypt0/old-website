@@ -1,7 +1,6 @@
 ---
 title: "Hi guys"
 date: 2021-12-24T17:04:57Z
-draft: true
 ---
 
 My name is Tiago Rodrigues. I come from a little place in Portugal called Milhazes, and my goal in life is to try and learn as much as possible from everything. Some say that might be a bit too ambitious but hey, doesn't hurt to try, right?
