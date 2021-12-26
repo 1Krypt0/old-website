@@ -1,4 +1,4 @@
-baseURL = 'http://1krypt0.github.io/'
+baseURL = 'https://1krypt0.github.io/'
 languageCode = 'en-us'
 title = "Hey guys, I'm Tiago"
 theme = "hello-friend-ng"
