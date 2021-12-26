@@ -87,4 +87,4 @@ publishDir   = "public"
   [[menu.main]]
     identifier = "about"
     name       = "About Me"
-    url        = "/about"
+    url        = "/about/index.md"
