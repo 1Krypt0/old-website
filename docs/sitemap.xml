@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tiagopbrodrigues.com/categories/</loc>
-  </url><url>
     <loc>https://tiagopbrodrigues.com/</loc>
+    <lastmod>2021-12-24T17:04:57+00:00</lastmod>
+  </url><url>
+    <loc>https://tiagopbrodrigues.com/about/</loc>
+    <lastmod>2021-12-24T17:04:57+00:00</lastmod>
+  </url><url>
+    <loc>https://tiagopbrodrigues.com/posts/about/</loc>
+    <lastmod>2021-12-24T17:04:57+00:00</lastmod>
+  </url><url>
+    <loc>https://tiagopbrodrigues.com/posts/</loc>
+    <lastmod>2021-12-24T17:04:57+00:00</lastmod>
+  </url><url>
+    <loc>https://tiagopbrodrigues.com/categories/</loc>
   </url><url>
     <loc>https://tiagopbrodrigues.com/series/</loc>
   </url><url>
