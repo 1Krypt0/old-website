@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hey guys, I&#39;m Tiago</title>
+    <link>https://1krypt0.github.io/</link>
+    <description>Recent content on Hey guys, I&#39;m Tiago</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://1krypt0.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hi guys</title>
+      <link>https://1krypt0.github.io/about/</link>
+      <pubDate>Fri, 24 Dec 2021 17:04:57 +0000</pubDate>
+      
+      <guid>https://1krypt0.github.io/about/</guid>
+      <description>My name is Tiago Rodrigues. I come from a little place in Portugal called Milhazes, and my goal in life is to try and learn as much as possible from everything. Some say that might be a bit too ambitious but hey, doesn&amp;rsquo;t hurt to try, right?
+That&amp;rsquo;s probably why I started this little page as well, to try and create a record of what I am doing, where I am and share a bit of my life with anyone that might be interested (hey mom, yes I&amp;rsquo;m fine).</description>
+    </item>
+    
+  </channel>
+</rss>
