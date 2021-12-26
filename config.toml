@@ -10,6 +10,11 @@ dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "public"
 
+canonifyUrls = true
+
+[permalinks]
+  post = "/:slug/"
+
 
 [params]
   dateform        = "Jan 2, 2006"
