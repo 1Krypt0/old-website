@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hey guys, I&#39;m Tiago</title>
-    <link>https://tiagopbrodrigues.com/</link>
-    <description>Recent content on Hey guys, I&#39;m Tiago</description>
+    <title>Work on Hey guys, I&#39;m Tiago</title>
+    <link>https://tiagopbrodrigues.com/tags/work/</link>
+    <description>Recent content in Work on Hey guys, I&#39;m Tiago</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Sun, 02 Jan 2022 19:34:28 +0000</lastBuildDate><atom:link href="https://tiagopbrodrigues.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Jan 2022 19:34:28 +0000</lastBuildDate><atom:link href="https://tiagopbrodrigues.com/tags/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resume</title>
       <link>https://tiagopbrodrigues.com/posts/resume/</link>
@@ -26,26 +26,6 @@ During the summer of 2021, to challenge myself, I did a small internship at a co
       <guid>https://tiagopbrodrigues.com/resume/</guid>
       <description>Experience Summary I am a third-year student currently getting a bachelor’s degree in Informatics and Computer Engineering. I love getting involved in new environments and meeting new people, because only then can I develop as a person and reach new heights.
 During the summer of 2021, to challenge myself, I did a small internship at a company in my hometown, where I dealt with completely different circumstances compared to the ones faced in university, and had to learn new skills by myself, which in turn greatly improved my ability to learn on the fly and become even more passionate about this field.</description>
-    </item>
-    
-    <item>
-      <title>Hi guys</title>
-      <link>https://tiagopbrodrigues.com/about/</link>
-      <pubDate>Fri, 24 Dec 2021 17:04:57 +0000</pubDate>
-      
-      <guid>https://tiagopbrodrigues.com/about/</guid>
-      <description>My name is Tiago Rodrigues. I come from a little place in Portugal called Milhazes, and my goal in life is to try and learn as much as possible from everything. Some say that might be a bit too ambitious but hey, doesn&amp;rsquo;t hurt to try, right?
-That&amp;rsquo;s probably why I started this little page as well, to try and create a record of what I am doing, where I am and share a bit of my life with anyone that might be interested (hey mom, yes I&amp;rsquo;m fine).</description>
-    </item>
-    
-    <item>
-      <title>Hi guys</title>
-      <link>https://tiagopbrodrigues.com/posts/about/</link>
-      <pubDate>Fri, 24 Dec 2021 17:04:57 +0000</pubDate>
-      
-      <guid>https://tiagopbrodrigues.com/posts/about/</guid>
-      <description>My name is Tiago Rodrigues. I come from a little place in Portugal called Milhazes, and my goal in life is to try and learn as much as possible from everything. Some say that might be a bit too ambitious but hey, doesn&amp;rsquo;t hurt to try, right?
-That&amp;rsquo;s probably why I started this little page as well, to try and create a record of what I am doing, where I am and share a bit of my life with anyone that might be interested (hey mom, yes I&amp;rsquo;m fine).</description>
     </item>
     
   </channel>
