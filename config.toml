@@ -10,9 +10,10 @@ dataDir      = "data"
 layoutDir    = "layouts"
 publishDir   = "docs"
 
+enableEmoji = true
+
 [permalinks]
   post = "/:slug/"
-
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -75,10 +76,6 @@ publishDir   = "docs"
     name = "twitter"
     url = "https://twitter.com/thekrypt0"
 
-  [[params.social]]
-    name = "email"
-    url  = "mailto:tiagopbr.2001@gmail.com"
-
 
   # And you can even create generic menu
 [menu]
@@ -86,6 +83,12 @@ publishDir   = "docs"
     identifier = "blog"
     name       = "Blog"
     url        = "/posts/"
+
+  [[menu.main]]
+    identifier = "resume"
+    name = "Resume"
+    url = "/resume"
+
 
   [[menu.main]]
     identifier = "about"
