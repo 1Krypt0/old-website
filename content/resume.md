@@ -6,7 +6,7 @@ tags:
   - Work
 ---
 
-If you prefer a PDF version, you can find one [here](https://drive.google.com/file/d/1KwOkKca15Qu0sQ3muh21ADBqYabnHrEr/view?usp=sharing)
+If you prefer a PDF version, you can find one [here](https://drive.google.com/file/d/1KwOkKca15Qu0sQ3muh21ADBqYabnHrEr/view?usp=sharing).
 
 # Experience Summary
 
@@ -150,12 +150,12 @@ Even though it is not perfect, I have learned a great deal from assembling this,
 
 ### Portuguese:
 
-- Understanding: Native
-- Speaking: Native
-- Writng: Native
+- Understanding: Native.
+- Speaking: Native.
+- Writng: Native.
 
 ### English
 
-- Understanding: C2 (Advanced)
-- Speaking: B2 (Independent)
-- Writing: C2 (Advanced)
+- Understanding: C2 (Advanced).
+- Speaking: B2 (Independent).
+- Writing: C2 (Advanced).
