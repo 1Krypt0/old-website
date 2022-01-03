@@ -6,6 +6,8 @@ tags:
   - Work
 ---
 
+If you prefer a PDF version, you can find one [here](https://drive.google.com/file/d/1KwOkKca15Qu0sQ3muh21ADBqYabnHrEr/view?usp=sharing)
+
 # Experience Summary
 
 I am a third-year student currently getting a bachelor’s degree in Informatics and Computer Engineering. I love getting involved in new environments and meeting new people, because only then can I develop as a person and reach new heights.
