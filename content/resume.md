@@ -152,7 +152,7 @@ Even though it is not perfect, I have learned a great deal from assembling this,
 
 - Understanding: Native.
 - Speaking: Native.
-- Writng: Native.
+- Writing: Native.
 
 ### English
 
