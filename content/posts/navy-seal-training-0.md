@@ -27,8 +27,28 @@ I didn't come to this as an absolute beginner. For about a year I had trained ca
 
 ## Week 0 - The planning
 
-The training consisted of a 26-week plan, where each week I would be training 6 times, Monday to Saturday. Every training includes a form of cardio, in the form of either running or swimming, and some weight-training to go with it. Cardio would be divided into 3 sections, differing in intensity and length of training. They are:
+The training consisted of a 26-week plan, where each week I would be training 6 times, Monday to Saturday. Every training includes a form of cardio, in the form of either running or swimming, and some weight-training to go with it. Here's how it goes:
+
+### Cardio
+
+Cardio would be divided into 3 sections, differing in intensity and length of training. They are:
 
 - Long Slow Distance (LSD) training, where you run/swim for a long distance at a slower, but steady pace.
 - Continuous High Intensity (CHI), where you run/swim for a short distance at a very high intensity.
 - Interval training, where you combine the two methods above to create changes in pace and intensity in a controlled fashion.
+
+Mondays would be for LSD running, Wednesdays for Interval and Fridays for CHI. Then there came swimming, and that's where the problems began. I don't have a swimming pool I can attend. Sadly, I would not be able to develop my swimming during the course of the training. Whilst I do appreciate the extra rest that I get on those days, it would be fun to complete the entire "challenge". But still, I had running, which was hard enough already for someone who sits on a chair all day.
+
+### Calisthenics
+
+The military aren't big on gyms. If you can drop down and give me 20 then why wouldn't you? It is great exercise and best of all, its free. For a college student like me that makes instantly sounds super appealing.
+
+As such, for the most part, the major calisthenics exercises performed were the humble push-up, pull-up and sit-up combo. While it may seem easy, doing 50 push-ups and 50 sit-ups after doing 15 pull-ups is a lot harder than you may think (if you have doubts go ahead and try it). It was great that the training was based on these exercises, because that meant i could perform the majority of them at home. Sadly, I also had no pull-up bar near me, but for that I had a gym to go to. Why go to a gym if you only intended to do calisthenics?
+
+### Strength Training
+
+For SEALs, doing only calisthenics isn't enough. Whilst a training like that can give a lot of benefits, for sheer strength gains, there is nothing like isolated machine and weight work
+
+### Planning my day around it
+
+# Conclusion
