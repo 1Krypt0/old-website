@@ -43,12 +43,28 @@ Mondays would be for LSD running, Wednesdays for Interval and Fridays for CHI. T
 
 The military aren't big on gyms. If you can drop down and give me 20 then why wouldn't you? It is great exercise and best of all, its free. For a college student like me that makes instantly sounds super appealing.
 
-As such, for the most part, the major calisthenics exercises performed were the humble push-up, pull-up and sit-up combo. While it may seem easy, doing 50 push-ups and 50 sit-ups after doing 15 pull-ups is a lot harder than you may think (if you have doubts go ahead and try it). It was great that the training was based on these exercises, because that meant i could perform the majority of them at home. Sadly, I also had no pull-up bar near me, but for that I had a gym to go to. Why go to a gym if you only intended to do calisthenics?
+As such, for the most part, the major calisthenics exercises performed were the humble push-up, pull-up and sit-up combo. While it may seem easy, doing 50 push-ups and 50 sit-ups after doing 15 pull-ups is a lot harder than you may think (if you have doubts you go ahead and try it). It was great that the training was based on these exercises, because that meant I could perform the majority of them at home. Sadly, I also had no pull-up bar near me, but for that I had a gym to go to. But why go to a gym if you only intended to do calisthenics, you ask?
 
 ### Strength Training
 
-For SEALs, doing only calisthenics isn't enough. Whilst a training like that can give a lot of benefits, for sheer strength gains, there is nothing like isolated machine and weight work
+For SEALs, doing only calisthenics isn't enough. Whilst a training like that can give a lot of benefits, for sheer strength gains, there is nothing like isolated machine and weight work. And for that you need machines and weights, two things which I don't have at home. Luckily, near my apartment in Porto is a really cool gym, and it is not over the top expensive (unlike the ones in my hometown), so it was a cost that was bearable.
+
+The training here consisted of mostly weight work, and the more complete, tried and tested exercises were preferred. For upper body, things like bench and shoulder press, rows and lat pulldowns were the main type of exercises, whilst for the lower body it was more machine focused, with things like leg extensions and curls, but also weight work like squats and deadlifts were included.
+
+Time at the gym was meant for time to put on heavy loads, and to get maximal strength gains so, for the most part, sets and reps weren't the main factor, but higher weights and perfect repetitions were. Mondays and Fridays were dedicated to upper body, and Tuesdays and Saturdays for lower body, mixed with some of the calisthenics that I already talked about. Wednesdays and Thursdays on the other hand, were full on bodyweight days, which also saved me some time on my week for other things as well.
 
 ### Planning my day around it
 
+At the time of this "challenge", I am a college student. This means that my life is already incredibly busy as it is. From going to classes and actually doing homework and projects, whilst also keeping up with what is being taught and preparing for tests and exams, a good portion of my day is dedicated to work. All around, i spend anywhere from 8 to 12 hours a day on university business. Add to that taking care of my bedroom and cooking (I live with 2 roommates and usually I am the one who cooks), and there go 3 more hours spent.
+
+From the 24 hours we have in a day, if we subtract that plus the 6:30/7 hours I sleep usually (yes I know I should sleep more, it's a struggle), that leaves me with about 6 hours for everything else. Going to university takes about 20/25 minutes, so there goes almost another hour. Take 2 hours for hobbies and winding down at night and it leaves me with around 3 hours a day for exercising and to "redistribute" through other tasks (things always take longer than we expect). In the end, each day, there are around 2/2:30 hours for me to warm-up, workout and cool down, which is not a lot.
+
+Fitting this at night would not be a good idea, as it would impact my already poor sleep. In the middle of the morning is nearly impossible because of university and during the afternoon it wouldn't be productive, as I would need to stop working and switch context to working out and then go back to working, which goes against the idea of deep work, which for me is essential.
+
+That leaves me with one option: Working out before university starts, early in the morning. As you can imagine, I hate waking up early, and anything before 8 for me is already early, so when I figured out that to have time for everything I would need to wake up at 6, and sometimes even 5:30, I was devastated. This, for me, was without a doubt the hardest part. Not only waking up at 5:30, but also going to sleep at like 22:30 or 23:00, to get at least 7 hours of sleep each night. It took a lot of incremental changes to get up to the point where I can be semi awake at those early hours, and even now beginning this "challenge" it is a struggle, but it is one I have since become accustomed to.
+
 # Conclusion
+
+This is much more than a 30 days of something challenge, it is a commitment to half a year of consistent dedication to a physically and mentally challenging training. It is a complete context switch from the sedentary life I had so far just doing university work. But it is a necessary change, and it is a step in the right direction for a healthier, more disciplined and overall better life. And it is just getting started. Stay tuned, as next week I will recap what the first week of training was like. And if you are also ~~crazy~~ ambitious enough to do this, join me and do share your progress with me as well. But enough talking, now it is time go out and do it. Or, like the incredible Jocko Willink said:
+
+> Go down swinging. And I'll tell you: if you fight with all you have, more often than not, you won't go down at all. You will win
