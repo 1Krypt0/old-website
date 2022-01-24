@@ -41,7 +41,7 @@ Mondays would be for LSD running, Wednesdays for Interval and Fridays for CHI. T
 
 ### Calisthenics
 
-The military aren't big on gyms. If you can drop down and give me 20 then why wouldn't you? It is great exercise and best of all, its free. For a college student like me that makes instantly sounds super appealing.
+The military aren't big on gyms. If you can drop down and give me 20 then why wouldn't you? It is great exercise and best of all, its free. For a college student like me that instantly sounds super appealing.
 
 As such, for the most part, the major calisthenics exercises performed were the humble push-up, pull-up and sit-up combo. While it may seem easy, doing 50 push-ups and 50 sit-ups after doing 15 pull-ups is a lot harder than you may think (if you have doubts you go ahead and try it). It was great that the training was based on these exercises, because that meant I could perform the majority of them at home. Sadly, I also had no pull-up bar near me, but for that I had a gym to go to. But why go to a gym if you only intended to do calisthenics, you ask?
 
