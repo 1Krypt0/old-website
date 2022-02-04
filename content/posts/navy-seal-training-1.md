@@ -1,8 +1,7 @@
 ---
 title: "How I Trained to Look Like a Navy Seal - Week 1"
 date: 2022-02-04T11:50:29Z
-draft: true
-toc: false
+draft: false
 images:
 tags:
   - health
