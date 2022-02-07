@@ -1,7 +1,7 @@
 ---
 title: "Navy Seal Training 2"
 date: 2022-02-07T18:57:12Z
-draft: true
+draft: false
 images:
 tags:
   - health
