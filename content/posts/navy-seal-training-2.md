@@ -1,5 +1,5 @@
 ---
-title: "Navy Seal Training 2"
+title: "How I Trained to Look Like a Navy Seal - Week 2"
 date: 2022-02-07T18:57:12Z
 draft: false
 images:
