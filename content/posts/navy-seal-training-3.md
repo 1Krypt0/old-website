@@ -33,6 +33,12 @@ Thursday is almost my mid-week rest day. It is only a day for push-ups, pull-ups
 
 ## Day 5 - A slight twist
 
-## Day 6 - The finaç stretch
+Friday was supposed to be my upper body and running day, but turned out to be one of the best workouts I ever had. Instead of running alone, the cardio consisted of playing a few hours of futsal with my friends from university. And it also happenned that it was my last exam that morning, so I felt even better to go out and do something super fun. It was a blast, we player almost non-stop for 2 hours and a bit, and at the end everyone was exhausted, but not for one moment did I want to stop. After all that I could barely walk home, much less go to the gym. But the energy expended and work done definitely made it a worthy tradeoff.
+
+## Day 6 - An absolute wreck
+
+The aftermath of a day like that however, is not all that fun. During the night I was still fine, just really tired, but when the morning came it all hit at once. I could barely move a single leg muscle and absolutely everything felt sore. This is what happens when university makes me sit down almost the entire day, the muscles start to degrade heavily and weaken a lot. Needless to say I couldn't go to the gym to do leg day, as I almost couldn't make it out of my bed waking up and had to drag myself out of it. Still, I regret nothing and would play all day again (just let me rest for a few days now).
 
 # Rounding out the week
+
+All in all, it was one of my most physically active weeks of the year, and one I am very proud of for sticking to so well. I probably wouldn't have done it if my girlfriend didn't motivate me on some days, so kudos to her as well. Now, even though I am still hurt from Friday (I am writing this on Sunday and still can barely walk), I am ready to take on another week that will leave my absolutely wrecked and earning for more, all while developing a great physique along the way. Couldn't ask for a better start to my year. See you later!
