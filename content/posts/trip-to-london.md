@@ -36,6 +36,42 @@ With countless nights seeing the possible visiting destinations, estimating pric
 
 ## Day 1: The Arrival
 
+Our flight was at around 6 A.M, which means that at around 3:30 I was already awake and getting ready to leave. That night I barely slept, and not for lack of trying. Daniela tried and actually did sleep. She is lucky in that aspect. But neither of us cared even if we didn't sleep at all. We were so excited it kept us wide awake. We arrived at the airport, all still pitch black outside, I gave the goodbye to my parents and so we went to board. I never had gone to an airport alone like that. All the sudden it felt like I really was an adult, with responsibilities. Its scary, but the freedom you get at the same time is incredible. I was kind of in shock all that time, like it didn't feel real. But it was. I really was going to London with my girlfriend.
+
+Check-in complete, shops visited and all of the sudden we were boarding the plane. At that moment I found out my godfather (who is my cousin) and his wife were going in the exact same journey as us. It was fun hanging out with them, and knowing that after all I wasn't completely alone in London, in case something happenned.
+
+{{< image src="/trip-to-london/departure.jpg" alt="Me boarding the plane" position="center" style="border-radius: 8px;" >}}
+
+This is me boarding the plane, still a bit flabbergasted about going.
+
+The flight took off, and the journey was well under way. The time in the air is really good to actually calm down and actually let the body relax. So we did. We talked, played games, and tried to prepare for what was coming. But nothing could prepare us for how amazing everything would get in a bit.
+
+We arrived at 9 A.M, and were instantly met by the freezing cold of being so far up north. It was freezing the entire journey. But it felt good. We walked around in heavy jackets all the time and not for one moment were we cold or sweating, something that happens after 20 minutes in Portugal. It was amazing. And so the journey began. We went through the massive building that is Stansted airport, figured out where the train was, and off we were into the heart of London, Liverpool Street Station.
+
+When we got there, we knew exactly what to do. We had planned all this. It felt so good to have that plan, so we didn't feel overwhelmed at all. But still, we were. We had made it to one of the coolest cities in the world!
+
+{{< image src="/trip-to-london/subway.jpg" alt="The London subway in all its glory" position="center" style="border-radius: 8px;" >}}
+
+We got off at our first stop, Queensway, and went straight to the hotel we were going to stay. It was small, but cozy. For the time we would spend there, it was more than enough.
+
+Check-in done, we suddenly realized something. We hadn't eaten since like 4 A.M and it was already midday. So we found a cheap place to eat, and we weren't disappointed.
+
+Now, the exploring began. Since we were going to be quite sleep deprived, there were 3 main places to visit in day 1:
+
+- Hyde Park
+- The Natural History Museum
+- Harrods department store
+
+Right after we had eaten, we went to a little store to buy some supplies a.k.a food and water for whenever we got hungry while travelling.
+
+#### Hyde Park
+
+Our first real sight was London's biggest park, Hyde Park. It always seemed huge in the map, but only when we actually entered it to cross did we realize just how huge it is. It seemed to stretch forever, and it was full of trees, lakes, animals, everything. It really seemed a happy place, and we loved to go the lake where there were a ton of swans, ducks and whatnot, just because we had never seen nothing as big as that. We stopped to admire the magnitude of it all, the animals all around the lake, and we went on with our journey.
+
+Just to go accross the park it seemed like a massive journey, and we went through the short side!
+
+#### Natural History Museum
+
 ## Day 2: Exploring around London
 
 ## Day 3: Soaring up the sky
