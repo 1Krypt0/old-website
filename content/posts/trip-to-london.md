@@ -68,9 +68,55 @@ Right after we had eaten, we went to a little store to buy some supplies a.k.a f
 
 Our first real sight was London's biggest park, Hyde Park. It always seemed huge in the map, but only when we actually entered it to cross did we realize just how huge it is. It seemed to stretch forever, and it was full of trees, lakes, animals, everything. It really seemed a happy place, and we loved to go the lake where there were a ton of swans, ducks and whatnot, just because we had never seen nothing as big as that. We stopped to admire the magnitude of it all, the animals all around the lake, and we went on with our journey.
 
-Just to go accross the park it seemed like a massive journey, and we went through the short side!
+Just to go across the park it seemed like a massive journey, and we went through the short side!
+
+Also at this point we were starting to realize something. We would be walking a lot. Like 20km a day a lot. None of us had the kind of feet for that. This was getting evident when, just as we where getting out of Hyde Park, my feet started getting a little sore. This would become a recurring event in the coming days. But at that point, it was quite manageable, and wasn't all that bad, for the moment.
+
+So out we went, and the first of the many amazing places was officially checked off the list.
 
 #### Natural History Museum
+
+Next stop, the magic Natural History Museum.
+
+{{< image src="/trip-to-london/nat-hist-entrance.jpg" alt="The entrance to the Natural History Museum" position="center" style="border-radius: 8px;" >}}
+
+I had seen pictures of this place before. But nothing could prepare me for what was in front of me at this moment. It was so big!
+
+I always loved these sorts of museums, but none of the ones I had seen looked as giant as this one. Just entering and being immediately greeted by the huge whale skeleton is breathtaking, and sets you up for a whole afternoon of entertainment.
+
+Right after you walk through this massive entrance, you are greeted with this:
+
+{{< image src="/trip-to-london/whale.jpg" alt="The giant whale skeleton at the entrance" position="center" style="border-radius: 8px;" >}}
+
+Behind it sits a statue of the great Charles Darwin, a great symbol for all that was found inside this museum.
+
+Inside the massive corridors sit a million different exhibits showcasing everything from dinosaur fossils and models, all the animal kingdoms showed in all their glory, the life of the giant sequoia trees to the history of the earth itself. Anything that was an important part of the Earth, you can find a piece of it here.
+
+Needless to say, me and Daniela were totally starstruck. Me especially, having spend a lot of my childhood seeing things like these on TV, finally seeing them in real life was an experience I can never forget. We spent around 3 hours here, and it all seemed to just fly by.
+
+The only thing that grounded us a bit and started to take its toll were our feet. Inside the museum we walked through every single surface possible and it showed. We must have done a few kilometers in there, not stopping for a bit. In the end they were really hurting and the lack of sleep really started to show a lot. We were getting exhausted. But we pushed on, as we had just one more thing to see...
+
+#### Harrods
+
+{{< image src="/trip-to-london/harrods-entry.jpg" alt="The entry to Harrods" position="center" style="border-radius: 8px;" >}}
+
+By this point we were a total wreck.
+
+After walking quite a bit to get here, our feet were completely dead, the sleep was making us really slow and also, we developed a bit of a hunger. Needless to say, it was not as fun to visit as we had hoped. At least it was the thing we least felt the need to visit in the whole trip, so not taking it in fully wasn't the end of the world. We would've been much sadder if this happenned in the Natural History Museum.
+
+One thing that was quite the sight to see was the architecture of the buildings around it. Everything seemed just so fancy and expensive, like it was made for royalty. Just after going there I found out we were actually just a few meters away from some of the most expensive apartments in the whole world, so we were in the middle of real money.
+
+In the store, there were booths for Gucci, Prada, Fendi, Versace and all that you can imagine. For us, it was something we had never seen. The butcher and pastries sections were so beautiful, like everything inside it. But we made our visit fast, so our feet would stop hurting so much
+
+#### Winding down for the day
+
+After we went out, we stopped at a nearby Starbucks just to rest the feet and stop for a bit, after hours and hours of non stop walking and standing up. It felt really nice to just relax for a few minutes. We figured out where to have dinner, and chose to try out the infamous "cheeky Nando's".
+
+{{< image src="/trip-to-london/nandos.jpg" alt="Our dinner at Nandos" position="center" style="border-radius: 8px;" >}}
+
+It was definitely not bad, but coming from the country where that food is super popular (the logo even is the symbol of our hometown, the "Galo the Barcelos"), it could have been a bit better. But still, it was quite the treat after all that walking.
+
+After this, we were completely exhausted as we got to the hotel. We arrived, showered, got into bed, and almost passed out immediately. It was an amazing day. But we had to rest as the next one would be even bigger.
 
 ## Day 2: Exploring around London
 
