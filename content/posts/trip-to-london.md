@@ -159,7 +159,9 @@ Next stop, the riverside!
 
 #### Westminster Abbey
 
-Funny story, I am really bad at figuring out which important building is which. When in a city where every building seems important like in London, this conditions worsens, tremendously. This effect was shown quite well when we were walking to try and find Westminster Abbey, walking just by it, totally ignoring thinking it is just any other church, looking for "the real Westminster Abbey", wasting nearly half an hour or more until I figured out we had just passed by it. At one point, I was convinced the houses of Parliament where what we were looking for, until the absurd amount of police guarding the entrance made me think that maybe that wasn't it.
+Funny story, I am really bad at figuring out which important building is which. When in a city where every building seems important like in London, this conditions worsens, tremendously. This effect was shown quite well when we were walking to try and find Westminster Abbey, walking just by it, totally ignoring thinking it is just any other church, looking for "the real Westminster Abbey", wasting nearly half an hour or more until I figured out we had just passed by it.
+
+At one point, I was convinced the houses of Parliament where what we were looking for, until the absurd amount of police guarding the entrance made me think that maybe that wasn't it.
 
 When Daniela made me realize it, she first mocked me, and kept doing so for the next day, and then we actually got into the Abbey.
 
@@ -169,11 +171,63 @@ We couldn't take any pictures while inside, but those halls, we will never forge
 
 #### Houses of Parliament and the Big Ben
 
+Down we went closer to the Thames, where we saw the world famous London Eye, and had to control ourselves deeply to not go on a ride (the queue was massive and we wouldn't have time for anything else). So we just lounged around the area of the mighty Big Ben and the Houses of Parliament, took a few more pictures of the amazing buildings, and went with our way.
+
+Here the most surprising thing that happenned was when we went to a Tesco to fill up on snacks for the day, it was just so tiny! The whole shop was barely the size of a corridor, and two people could not fit inside when looking for things. I had never seen anything like it before, we were both quite shocked. But we had our food, so everything was ok.
+
 #### Trafalgar Square
+
+After this our path up through London began, and the first stop was the gigantic Trafalgar Square. It was full of life, with people travelling everywhere and many of them visiting the famous National Gallery, which we sadly didn't go to. But once again the sun was shining, so we took some more pictures, this time I am the one that looks quite nice, just look:
+
+{{< image src="/trip-to-london/tiago-trafalgar.jpg" alt="A picture of me next to the National Gallery" position="center" style="border-radius: 8px;" >}}
+
+It really was a cool place to be. But by this time, we had developed quite the appetite. So off we went to search for our lunch. The first thing we encountered was Chinatown, vibrant as ever and it looked like a super cool place to have lunch. Sadly, Daniela didn't find any of them appetizing enough, so I had another idea, to try out the classic British delicacy that is fish and chips!
+
+Sadly, it was one of the big letdowns of the journey. For the time we waited and the price we paid, it is clear that it was a tourist trap above all else. But at least I can't say I didn't try it, however disappointing it may have been. It was also the first time any of us had fresh cod, since in Portugal almost all of it is salted to be preserved. I hate salted cod, but the fresh one was really good for a change. We should invest in it more.
 
 #### British Museum
 
+After relaxing a bit in the restaurant and letting our feet heal for a moment, we went to our last big destination for the day, the mighty British Museum. As we got there, there we started to realize its magnitude, but boy were we in for a treat.
+
+The entrance alone is one of the most beautiful museum entrances I have seen (even after entering the Natural History one), and the architecture inside is so beautiful.
+
+{{< image src="/trip-to-london/british-entrance.jpg" alt="The ceiling on the entrance of the British Museum" position="center" style="border-radius: 8px;" >}}
+
+You are met with this huge glass ceiling that sits above the entire room, creating a mood lighting like no other. On each of the other 3 sides, there is a massive hallway that will take you through a journey through different periods of history. Unlike the Natural History Museum, this one is focused on humans, and our history throughout the world. From the Greeks and Romans, the ancient oriental World, the mighty Egypt and its famous Rosetta Stone, everything about human history and more could be found in this walls.
+
+Each corner of the museum left me more amazed than the previous, with rooms for absolutely everything. It was fascinating seeing some of the pieces they have collected over the years, and the history each one tells. It was yet another experience I will never forget. But, being honest, if I had to choose between this and the Natural History Museum, I would favor the latter (I love animals, sue me). Daniela prefers this one, and that is why we visited both.
+
+After around 4 hours of non-stop exploring this place, we were absolutely decimated by our feet. We stopped on some stairs by the bar and chilled around for some time, as on the second day our feet were really really hurt. Daniela suffered even more, as her shoes provided little support, so she really needed that rest.
+
+After both of us feeling better, it was already dark outside, so it was time for some big treats.
+
 #### Picadilly Circus
+
+When we got out it was super dark, which was the perfect setting for our final destinations. First stop, getting the now world famous Bubblewrap. We had seen it on a Youtube video, and since we were close we decided to give it a try. The result speaks for itself:
+
+{{< image src="/trip-to-london/bubblewrap.jpg" alt="A bubblewrap waffle in Chinatown" position="center" style="border-radius: 8px;" >}}
+
+It was delicious, and even made us forget how much our feet were sore!
+
+After walking a bit down the streets of London, and seeing things we never heard of like a Harry Potter theater, we arrived at the hustle and bustle that is Picadilly Circus.
+
+It was the brightest place I had ever seen at night. The giant screens made it feel like daytime, and the amount of people walking around told us this was the place to be at night in London.
+
+There was music, street performers, tourists and locals everywhere, hanging around this area. It felt like we were a part of the nightlife of London, and we kind of were!
+
+With all the admiration still hitting us, we looked closely and found one of the happiest places on Earth. An M&M store! Obviously we had to visit it, not only to see for ourselves, but also to get a lot of free candy.
+
+{{< image src="/trip-to-london/candy-shop.jpg" alt="Some of the dispensers in the candy store" position="center" style="border-radius: 8px;" >}}
+
+We came out very very happy, but even more so when we found out the fun wasn't over, because just across the street in Leicester Square there was a huge Lego store!
+
+{{< image src="/trip-to-london/lego.jpg" alt="A Lego Replica of the Subway train" position="center" style="border-radius: 8px;" >}}
+
+We both are huge fans of Lego's, and seeing what they built here made us feel like children again. Needless to say this was one of the best nights of my life.
+
+After it started getting late, and our feet just couldn't take it anymore, we went back to the hotel, already limping and crawlong at this point (or so it seemed), we lied in bed, and once again we completely passed out from how tired we were.
+
+This was one of the best days of my life, and the memories I still hold of it show this clearly.
 
 ## Day 3: Soaring up the sky
 
