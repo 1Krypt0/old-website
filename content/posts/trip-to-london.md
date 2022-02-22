@@ -106,7 +106,7 @@ After walking quite a bit to get here, our feet were completely dead, the sleep 
 
 One thing that was quite the sight to see was the architecture of the buildings around it. Everything seemed just so fancy and expensive, like it was made for royalty. Just after going there I found out we were actually just a few meters away from some of the most expensive apartments in the whole world, so we were in the middle of real money.
 
-In the store, there were booths for Gucci, Prada, Fendi, Versace and all that you can imagine. For us, it was something we had never seen. The butcher and pastries sections were so beautiful, like everything inside it. But we made our visit fast, so our feet would stop hurting so much
+In the store, there were booths for Gucci, Prada, Fendi, Versace and all that you can imagine. For us, it was something we had never seen. The butcher and pastries sections were so beautiful, like everything inside it. But we made our visit fast, so our feet would stop hurting so much.
 
 #### Winding down for the day
 
@@ -114,12 +114,67 @@ After we went out, we stopped at a nearby Starbucks just to rest the feet and st
 
 {{< image src="/trip-to-london/nandos.jpg" alt="Our dinner at Nandos" position="center" style="border-radius: 8px;" >}}
 
-It was definitely not bad, but coming from the country where that food is super popular (the logo even is the symbol of our hometown, the "Galo the Barcelos"), it could have been a bit better. But still, it was quite the treat after all that walking.
+It was definitely not bad, but coming from the country where that food is super popular (the logo even is the symbol of our hometown, the "Galo de Barcelos"), it could have been a bit better. But still, it was quite the treat after all that walking.
 
 After this, we were completely exhausted as we got to the hotel. We arrived, showered, got into bed, and almost passed out immediately. It was an amazing day. But we had to rest as the next one would be even bigger.
 
 ## Day 2: Exploring around London
 
+The second day was going to be the biggest one. It was the first full day we would have to explore and so we needed to take advantage of it. The plan had us travelling north, starting from the Thames and ending in the big center of London, Picadilly Circus.
+
+Through it we would pass by:
+
+- Buckingham Palace
+- Westminster Abbey
+- The Houses of Parliament
+- Big Ben
+- Chinatown
+- The British Museum
+- Oxford Street
+- Picadilly Circus
+
+And more. Yeah, it was packed.
+
+We woke up early in the morning, after a not so good nights sleep because of all the heat that was blasting from the radiator we didn't know how to control, and the freezing cold of the window we opened to fight it. We had our breakfast, eating a lot to have energy for the day, and try to cure the lingering pain to our feet, and off we went.
+
+First stop, the Royal House.
+
+#### Buckingham Palace
+
+We got off the subway and we knew right away we were in the right place. The massive royal building, the beautiful black and gold gates, the red guards everywhere, it was quite the sight to see.
+
+{{< image src="/trip-to-london/buckingham.jpg" alt="A shot of Buckingham Palace" position="center" style="border-radius: 8px; margin-bottom: 10px" >}}
+
+{{< image src="/trip-to-london/gates.jpg" alt="A side gate to one of the gardens" position="center" style="border-radius: 8px;" >}}
+
+The best part was the fact that right after we got there, the sun started shining and illuminating everything making the buildings seem even more powerful.
+
+Everything around that area seemed superbly clean and organized, and since it was mostly empty (at least compared to a lot of the places we had been through so far), we could have more liberty to explore. Just imagining that inside those walls lives an actual Queen, and we were so close to actual royalty is really cool.
+
+We really wanted to stay for the change of guard with all the ceremony, but we had to move on with the plan. Not without snapping a few pics before going tho. Just look at this one, Daniela looks amazing!
+
+{{< image src="/trip-to-london/daniela-buckingham.jpg" alt="A picture of Daniela next to Buckingham Palace" position="center" style="border-radius: 8px;" >}}
+
+Next stop, the riverside!
+
+#### Westminster Abbey
+
+#### Houses of Parliament and the Big Ben
+
+#### Trafalgar Square
+
+#### British Museum
+
+#### Picadilly Circus
+
 ## Day 3: Soaring up the sky
+
+#### Tower of London
+
+#### St. Paul's Cathedral
+
+#### London Bridge
+
+#### The Shard
 
 ## Day 4: The Return
