@@ -159,6 +159,14 @@ Next stop, the riverside!
 
 #### Westminster Abbey
 
+Funny story, I am really bad at figuring out which important building is which. When in a city where every building seems important like in London, this conditions worsens, tremendously. This effect was shown quite well when we were walking to try and find Westminster Abbey, walking just by it, totally ignoring thinking it is just any other church, looking for "the real Westminster Abbey", wasting nearly half an hour or more until I figured out we had just passed by it. At one point, I was convinced the houses of Parliament where what we were looking for, until the absurd amount of police guarding the entrance made me think that maybe that wasn't it.
+
+When Daniela made me realize it, she first mocked me, and kept doing so for the next day, and then we actually got into the Abbey.
+
+Seeing the resting place of legends I have always admired like Sir Isaac Newton, Stephen Hawking, Charles Darwin, it really felt like standing in the shoulders of giants. The Scientist's Corner really was the part I most admired, but seeing names like Charles Dickens in there, or the Tomb of the Unknown Warrior, which was kept pristine at all times, made us realize we were in the middle of greatness there.
+
+We couldn't take any pictures while inside, but those halls, we will never forget.
+
 #### Houses of Parliament and the Big Ben
 
 #### Trafalgar Square
