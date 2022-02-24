@@ -278,7 +278,29 @@ It was one of the best burgers I ever had in my life. The condiments, the meat, 
 
 #### St. Paul's Cathedral
 
-Luckily for us, we didn't have to walk much to get here
+Luckily for us, we didn't have to walk much to get here. The restaurant was just across the street.
+
+When we walked in, it felt a lot like we got to a different city. The massive dome, the Renaissance style of architecture, it seemed as we had teleported right into the middle of Italy. This church was one of the most stand-out buildings for me. Maybe it was the massive architecture, the arches inside, the paintings and details, but it felt much more like a special place than say, Westminster Abbey. It was simply massive. And the decoration was impressive. Just look at this ceiling, for example.
+
+{{< image src="/trip-to-london/stpauls-ceiling.png" alt="The ceiling on St.Paul's Cathedral" position="center" style="border-radius: 8px; margin-bottom: 10px" >}}
+{{< image src="/trip-to-london/stpauls-ceiling-detail.jpg" alt="The details of the ceiling on St.Paul's Cathedral" position="center" style="border-radius: 8px; margin-bottom: 10px" >}}
+{{< image src="/trip-to-london/stpauls-dome.jpg" alt="The dome on St.Paul's Cathedral" position="center" style="border-radius: 8px; margin-bottom: 10px" >}}
+{{< image src="/trip-to-london/stpauls-decor.jpg" alt="The decoration around the walls on St.Paul's Cathedral" position="center" style="border-radius: 8px;" >}}
+
+It was magical being here, and simply admiring the architecture of the place. And what was the best part of this? It was just one of the 3 levels we could visit! Turns out we could (and did) go to the basement and to the roof!
+
+In the basement were buried some of the biggest names in the history of Britain, like the Duke of Wellington and other names alike. It was a place for more respect, and we simply admired how those great men were left resting.
+
+Meanwhile, the final (and possibly best) part of our visit was going to be visiting the roof. We had to walk up the dome to do so, which was quite the experience (it took a solid 10 minutes of going up the stairs, and walk through some very narrow corridors, through which I could barely pass with two backpacks), but finally we had made it. And boy did it pay off. The view was one of the best I had ever seen. We felt at the top of the world. We could overlook the entirety of London. This were some of the best moments of my life.
+
+{{< image src="/trip-to-london/financial-skyline.jpg" alt="The view of the financial district on St.Paul's Cathedral" position="center" style="border-radius: 8px; margin-bottom: 10px" >}}
+{{< image src="/trip-to-london/alloflondon.jpg" alt="A wide view of London" position="center" style="border-radius: 8px; margin-bottom: 10px" >}}
+{{< image src="/trip-to-london/church-view.jpg" alt="The view of the side of St.Paul's Cathedral" position="center" style="border-radius: 8px; margin-bottom: 10px" >}}
+{{< image src="/trip-to-london/ground-view.jpg" alt="Another skyline viewed from St.Paul's Cathedral" position="center" style="border-radius: 8px;" >}}
+
+We were in the clouds, figuratively and literally. We wanted to stay there forever. But sadly, we had to go. It was also at this moment that I realized that our incredible trip was nearing its end. We had just one more planned item and that was it. Sadly, the moments that made us cross the sky also brought us down to earth quickly. But that sadness quickly faded when I looked back and saw what an amazing journey we were having, and how happy Daniela was to be in a place like that. I shouldn't be sad because it was ending, I should be happy from all we made in those 3 very short days.
+
+And so I quickly picked myself up, and on we went to our final destination, where we would take one step further in the climb up, to the tallest building in all the United Kingdom, the Shard.
 
 #### The Shard
 
