@@ -225,17 +225,60 @@ We came out very very happy, but even more so when we found out the fun wasn't o
 
 We both are huge fans of Lego's, and seeing what they built here made us feel like children again. Needless to say this was one of the best nights of my life.
 
-After it started getting late, and our feet just couldn't take it anymore, we went back to the hotel, already limping and crawlong at this point (or so it seemed), we lied in bed, and once again we completely passed out from how tired we were.
+After it started getting late, and our feet just couldn't take it anymore, we went back to the hotel, already limping and crawling at this point (or so it seemed), we lied in bed, and once again we completely passed out from how tired we were.
 
 This was one of the best days of my life, and the memories I still hold of it show this clearly.
 
 ## Day 3: Soaring up the sky
 
+For our final day of exploring, we chose to visit the more historic and ancient side of London, the "City of London" (yes, London has a City of London inside it, [check it out](https://en.wikipedia.org/wiki/City_of_London)). This is where the history of London really begins, and was also the furthest part from where we were staying, so we decided to dedicate a whole day to it. Also, we made heavy use of the [London Pass](https://londonpass.com/en-us), so we could visit as many places and save along the way
+
+The main parts of our visit for this day included:
+
+- The Tower of London
+- St. Paul's Cathedral
+- The Tower Bridge
+- The Shard
+
+So early in the morning we woke up, once again tired because of the non-stop walking and not-so-good sleep of the night before, and out we went on to the subway, to the furthest ride we took so far.
+
+When we got off, we knew right away that the area was meant for business. Massive office buildings soaring up the sky, some with incredible modern architecture like the sky garden building and the gherkin, being also some of the tallest buildings we had ever seen, and the classic ones like the Bank of England, which we passed right by and didn't even realize.
+
+Also, another incredible (and a bit eerie) sight to see was just how empty the streets were. Since it was an office area and everyone was working, we barely saw anyone until we got very close to the Tower of London, which is really weird in one of the biggest cities in the world, surrounded by those massive buildings. It felt as if we went somewhere we weren't supposed to. But on we went anyway, and soon enough we reached our first destination for the day.
+
 #### Tower of London
+
+Our knowledge of the tower of London beforehand was essentially none, so when we went inside we were amazed by the history that was made there, and the significance it had for building a city like London. Inside the walls we were surprised to see that there seemed to be a small city, with housing and everything inside it. It turns out that the guards actually live there, and they have their houses and families inside those walls!
+
+{{< image src="/trip-to-london/tower-bridge.jpg" alt="Me with the Tower Bridge as background" position="center" style="border-radius: 8px;" >}}
+
+Our visit was going to be huge, since inside the walls there are a ton of things to explore. We saw how it came to be, the walls that guarded it (took a few obligatory pictures overlooking the Tower Bridge), how the people inside it lived, how it was used as a prison at one point and even some of the markings left by people incarcerated in it. When the walls were explored we moved to see maybe the biggest treasure held inside, the Crown Jewels.
+
+{{< image src="/trip-to-london/jewels-building.jpg" alt="The building where the Crown Jewels are stored" position="center" style="border-radius: 8px;" >}}
+
+Inside this build were some of the most beautiful objects we had ever seen. The presentation, the significance, the radiance they gave out, they almost didn't feel real. We also saw the chair where Queen Elizabeth was coronated, and the people who guarded it gave us a small talk on how everything worked. It was incredible.
+
+After visiting the outer buildings and walls, we moved on to the center piece, the tower that gave the place its name. Here we saw the battle armor of some warriors (and kings), the biggest and smallest armors in the world, some of the weapons used to fight in the older days, and even a totally accurate interpretation of a Middle-Ages armored dragon! (They were totally real and If you think otherwise we are no longer friends).
+
+{{< image src="/trip-to-london/dragon.jpg" alt="A dragon made out of armor pieces" position="center" style="border-radius: 8px;" >}}
+
+This was a place riddled with history, and we could have spent the whole day there.
+
+And finally, when all the buildings were visited, there was one more thing left to stun us. The wildlife! This was the first time either of us had seen actual squirrels in person! They are some of the cutest animals that exist and they roamed freely inside the walls, climbing trees and running around.
+
+It was so cute seeing them in person for the first time. We couldn't help but try to capture this moment.
+
+{{< image src="/trip-to-london/squirrel.jpg" alt="A squirrel digging a hole" position="center" style="border-radius: 8px;" >}}
+
+After all the buildings were visited, the feet were dying and the morning was spent in absolute delight, we headed off for lunch. Who would've guessed that walking for 4 hours worked quite the appetite?
+
+We decided to try a burger chain that I had heard of from the U.S but sadly doesn't exist in Portugal, Five Guys. And boy was that a good choice.
+
+It was one of the best burgers I ever had in my life. The condiments, the meat, the massive lot of fries that came with it, the unlimited drinks. I had never seen anything like it. But we were most certainly in burger heaven. We stayed there for a bit as our feet were recovering, had some of the complementary peanuts while talking, and when we were feeling better, moved on to the next big attraction of the day.
 
 #### St. Paul's Cathedral
 
-#### London Bridge
+Luckily for us, we didn't have to walk much to get here
 
 #### The Shard
 
