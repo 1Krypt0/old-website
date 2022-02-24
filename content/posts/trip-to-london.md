@@ -306,4 +306,42 @@ And so I quickly picked myself up, and on we went to our final destination, wher
 
 #### The Shard
 
-## Day 4: The Return
+As we were walking towards it the sun was starting to set, and a lovely mood started to set in the city. The lights dimmer, but a beautiful shade of blue persisted in the air. I had never seen evenings like it before. Throughout the day we could see the building in the distance, as it is simply massive, but as we headed closer and closer we started to really take a grasp of the dimensions of the place.
+
+{{< image src="/trip-to-london/shard-sunset.jpg" alt="A view of the Shard at sunset" position="center" style="border-radius: 8px;" >}}
+
+At one point, it seemed to reach up to the sky, and as the sky became darker, the yellow top looked like a torch lighting up the night sky. Those were sights we would never forget.
+
+{{< image src="/trip-to-london/shard-night.jpg" alt="The Shard at night" position="center" style="border-radius: 8px;" >}}
+
+We stopped at a nearby Costa Coffee to freshen up a bit (and also stop walking for a few moments to recharge), and on we walked through the mighty Tower Bridge, just as the night came down. It was packed with people, all walking along to admire its beauty. And it sure was quite a sight. But it wasn't our main stopping point.
+
+We walked through it and admired it of course, but didn't pay that much attention, as all the environment was soaking us in, including the massive building that we were getting nearer and nearer.
+
+{{< image src="/trip-to-london/bridge.jpg" alt="Walking through the Tower Bridge" position="center" style="border-radius: 8px;" >}}
+
+When we got on the other side, we really started realizing the true size of this piece of architecture. It seemed to rip through the sky and never end. And we were headed straight to the top!
+
+Up until this point, the tallest building I ever recall being on had like 10 floors and was a department store (it was also the first time I saw double digits on floors). Never did I expect to be entering a building that had not 10, not 20, but 72 floors, and I was going to be in the very top one.
+
+Also, the tallest building in the entirety of Portugal is the Vasco da Gama Tower, standing at 145m tall. This was more than double. At almost 310 meters, I had never felt so much in the sky.
+
+We found the entrance, waited along the queue, and as we reached the elevator, I started to think that it would take an eternity for them to reach 72 floors. I couldn't be more wrong. First of all, we had to take 2 elevators, one up to the 40th something floor and another to the top. And secondly, these were some real fast elevators. Like really fast. Like pressure in your ears from the speed fast.
+
+The numbers were moving so fast in the screen inside we thought they were fake. But just as quick as we entered the first one, we reached the top. I once lived in the 4th floor of an apartment whose elevator was slower than that. So it was quite impressive seeing something like that happen.
+
+I am not the person to be scared of heights, It had never happenned to me. But boy, when those doors opened, we climbed the set of stairs and were met with the open top of that massive building, something inside sure started to scream. It was so weird being that far up, seeing everything down below like tiny specs in a massive painting. The last floor comprised of a bar, a lounge area and the windows, which everyone absolutely stuck to.
+
+The little time we spent close to one was one of the most magical we ever had. Seeing it all from above, soaring up the sky, looking at everything we had visited in these last few days, the music, the environment, everything seemed perfect. I wouldn't change that moment for a single bit. It was one of those nights you wish lasted forever. And through this post, I hope they do.
+
+I will never forget the days we spent there, they were single-handedly the best three days of my entire life. Nothing during it ever felt real and yet everything lives in my head so vividly. And this was the glorious end I was hoping for. I was very happy with the way it ended, being literally on top of the world with the girl of my dreams and overlooking the city we explored and the journeys we took on those days. Saying it was magical is simply not enough.
+
+After contemplating on this for a while longer, deciding it was a more than worthy end to a great story, and getting overly emotional as I am writing this, we left, and ended our chapter for the day once more.
+
+{{< image src="/trip-to-london/shard-top.jpg" alt="A tiny portion of the view from the top of the Shard" position="center" style="border-radius: 8px;" >}}
+
+Well, almost ended. As we were heading back, it was still a bit early and we didn't want to waste our final hours there. And so, we did the only thing any sane person would do. We took the subway to the busiest and happiest place we had visited, Piccadilly Circus, just to get one final look at the nightlife (and also have dinner, we were very very hungry).
+
+We soaked up more of the London nightlife, one of which one would never get bored of, headed back into the tube, crawled back into the hotel one last time from absolutely dead feet, and passed out completely on the bed. This time, sadly, without a plan for the next day
+
+## 4: The Return
