@@ -340,8 +340,8 @@ After contemplating on this for a while longer, deciding it was a more than wort
 
 {{< image src="/trip-to-london/shard-top.jpg" alt="A tiny portion of the view from the top of the Shard" position="center" style="border-radius: 8px;" >}}
 
-Well, almost ended. As we were heading back, it was still a bit early and we didn't want to waste our final hours there. And so, we did the only thing any sane person would do. We took the subway to the busiest and happiest place we had visited, Piccadilly Circus, just to get one final look at the nightlife (and also have dinner, we were very very hungry).
+Well, almost ended. As we were heading back, it was still a bit early and we didn't want to waste our final hours in a hotel room moping. So, we did the only thing any sane person would do. We took the subway to the busiest and happiest place we had visited yet, Piccadilly Circus and the neighboring Leicester Square, just to get one final look at the nightlife (and also have dinner, we were very very hungry).
 
-We soaked up more of the London nightlife, one of which one would never get bored of, headed back into the tube, crawled back into the hotel one last time from absolutely dead feet, and passed out completely on the bed. This time, sadly, without a plan for the next day
+We soaked up more of the London lifestyle, a thing which one would never get bored of, headed back into the tube, crawled back into the hotel one last time from absolutely dead feet, and passed out completely on the bed. This time, sadly, without a real plan for the next day, except waking up early. Like way too early.
 
 ## 4: The Return
