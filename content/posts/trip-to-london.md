@@ -349,3 +349,13 @@ We soaked up more of the London lifestyle, a thing which one would never get bor
 ## 4: The Return
 
 As the clock struck something like 5:30 A.M, we were up.
+
+List of things to talk about:
+
+- Waking up early and the storm that was developing (seemed as London didn't want us to go at all). The empty tube
+- Getting to the train and seeing my cousin
+- Waiting around in the airport
+- Heading home
+- Immediately packing for university
+- Leaving right away for uni
+- The end. (as one chapter ended, another one began)
