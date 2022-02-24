@@ -336,6 +336,8 @@ The little time we spent close to one was one of the most magical we ever had. S
 
 I will never forget the days we spent there, they were single-handedly the best three days of my entire life. Nothing during it ever felt real and yet everything lives in my head so vividly. And this was the glorious end I was hoping for. I was very happy with the way it ended, being literally on top of the world with the girl of my dreams and overlooking the city we explored and the journeys we took on those days. Saying it was magical is simply not enough.
 
+Thanks Mom and Dad for the gift of a lifetime, and and adventure I will never, ever forget.
+
 After contemplating on this for a while longer, deciding it was a more than worthy end to a great story, and getting overly emotional as I am writing this, we left, and ended our chapter for the day once more.
 
 {{< image src="/trip-to-london/shard-top.jpg" alt="A tiny portion of the view from the top of the Shard" position="center" style="border-radius: 8px;" >}}
@@ -345,3 +347,5 @@ Well, almost ended. As we were heading back, it was still a bit early and we did
 We soaked up more of the London lifestyle, a thing which one would never get bored of, headed back into the tube, crawled back into the hotel one last time from absolutely dead feet, and passed out completely on the bed. This time, sadly, without a real plan for the next day, except waking up early. Like way too early.
 
 ## 4: The Return
+
+As the clock struck something like 5:30 A.M, we were up.
