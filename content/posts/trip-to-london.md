@@ -350,12 +350,24 @@ We soaked up more of the London lifestyle, a thing which one would never get bor
 
 As the clock struck something like 5:30 A.M, we were up.
 
-List of things to talk about:
+Our plane was really really early, and we still had a subway and a train to take. As we woke up the sky was still pitch black. In the streets you couldn't hear a thing. Not a single person was around. In a city like this, that is slightly terrifying.
 
-- Waking up early and the storm that was developing (seemed as London didn't want us to go at all). The empty tube
-- Getting to the train and seeing my cousin
-- Waiting around in the airport
-- Heading home
-- Immediately packing for university
-- Leaving right away for uni
-- The end. (as one chapter ended, another one began)
+But the real scary part wasn't there being anyone, it was the storm that had formed during the night. The wind was really picking up, lifting traffic cones and nearly taking down fences, it really seemed as if London didn't want us to go at all. We made it safely towards the tube, which was, again, completely empty. After a while a single person came, and that is when it started becoming a bit creepy.
+
+Luckily, soon enough it arrived, and off we were from that place, for the last time. During the journey there were mostly workers on their way to work, and along them two tourists looking tired as everything. When we arrived once again to Liverpool Street Station, my godfather was already there, just like in the airport. It seemed like the start of the journey all over again. We waited for a bit, bought our tickets for the train, and this time were quite early to catch it, with nearly no one else alongside us.
+
+The trip seemed to go really fast. We were all talking about what we had seen and heard on those days, we talking about the center of London and all that we saw and our amazing plan, and them talking about some beautiful areas in the outskirts that we didn't have the chance to explore (maybe one day we'll go back, who knows).
+
+As soon as the train stopped and we left, the sun was starting to shine once again. But we couldn't see any of it. A huge storm was picking up just outside the airport. Also, we were kind of late. After a bit of frantic running all around it, we finally found where we were supposed to be, made the check-in, and had the chance to lounge around for a bit. We all bought coffee, I bought some crisps with a flavor I had never seen before, and soon enough our flight came up.
+
+Yet another frantic journey to enter, a final bid of farewell to the city that took us in so incredibly well, and off we were, heading back to normality. As it turns out, we were lucky to even get on that flight, as the storm was really getting crazy we got off on just the right time. Any longer and it would probably have been canceled.
+
+The little I remember of this flight, I was tired like crazy. I don't recall sleeping, but I wasn't too far from it. After the 2:30 hours, we landed safely back in the great city of Porto. My parents were there, Daniela's dad was not too far off. We all chatted for a bit, shared a few laughs, and then each one went their own ways.
+
+In the 45 minute drive home, I didn't stop talking for a single minute. And in order to tell them everything that happenned, I really couldn't. I could have spent entire days talking about it, but my parents had better things to do.
+
+I arrived home, had lunch as it was already getting late, and here comes the real twist of events. This trip ended on the same day the second semester of university started! So we had lunched, I talked a bit more about my journey and they listened, and as soon as we were done, we started unpacking what I brought and packing my suitcase for uni. That day was such a wild ride. I arrived home an hour or two ago and already was I packing for another ride. At least this time we would be much closer.
+
+When everything was packed and ready to go, we waited for a few minutes, they drove to the train station and as soon as they got me back home, they would let me go once more. And the best part of all? I was also going with Daniela on this train! Me heading right back to were we left from, Porto, and she to Aveiro, where we study.
+
+It seemed as we never really left each other during this small time. Both of us still were smiling and laughing about all that happenned. But all that would have to stay put for a while. We had new classes, new schedules and new challenges to adapt. And just like that, as the greatest chapter in my life ended, another one began.
