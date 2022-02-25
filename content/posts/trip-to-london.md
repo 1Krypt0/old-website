@@ -1,7 +1,7 @@
 ---
 title: "2 Years Since the Best Trip of My Life"
 date: 2022-02-13T21:23:48Z
-draft: true
+draft: false
 images:
 tags:
   - travel
