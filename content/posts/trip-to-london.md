@@ -346,7 +346,7 @@ Well, almost ended. As we were heading back, it was still a bit early and we did
 
 We soaked up more of the London lifestyle, a thing which one would never get bored of, headed back into the tube, crawled back into the hotel one last time from absolutely dead feet, and passed out completely on the bed. This time, sadly, without a real plan for the next day, except waking up early. Way too early.
 
-## 4: The Return
+## Day 4: The Return
 
 As the clock struck something like 5:30 A.M, we were up.
 
