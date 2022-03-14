@@ -26,6 +26,16 @@ The only upside in all that was the fact that my mom was coming to Porto that da
 
 ## Working out at 6 A.M
 
+Everyday for this week, in order to train well, I woke up at 6 A.M, so I could have my gym session before university started. This is actually a great time to train and I absolutely love it, especially knowing that everyone else is asleep and I am already ahead on the day.
+
+The problem is that every night, right after dinner, I become absolutely exhausted and unable to do anything at all. This conditions worsens on busy university days, where there are a lot of classes or things to do, and I find myself just wanting to go to bed super early, but still having to prepare everything for the next day.
+
+Also, at night, I want to spend some time with Daniela, which leads to me staying up until later than I should (not her fault, I procrastinate a lot).
+
+On Monday and Tuesday this was quite tolerable, as I still was well rested from the weekend. But as the tiredness piled on, on Wednesday and especially Thursday, the lack of sleep really started to show.
+
+Needless to say that getting out of bed on those days was nothing short of a miracle.
+
 # The power of rest
 
 ## What I intend to do
