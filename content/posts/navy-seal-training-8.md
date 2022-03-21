@@ -1,7 +1,7 @@
 ---
 title: "How I Trained to Look Like a Navy Seal - Week 8"
 date: 2022-03-21T07:25:53Z
-draft: true
+draft: false
 toc: false
 tags:
   - health
