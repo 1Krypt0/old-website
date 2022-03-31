@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://tiagopbrodrigues.com/</loc>
+    <lastmod>2022-03-31T10:20:30+01:00</lastmod>
+  </url><url>
+    <loc>https://tiagopbrodrigues.com/surprise/</loc>
+    <lastmod>2022-03-31T10:20:30+01:00</lastmod>
+  </url><url>
+    <loc>https://tiagopbrodrigues.com/surprise/test/</loc>
+    <lastmod>2022-03-31T10:20:30+01:00</lastmod>
+  </url><url>
     <loc>https://tiagopbrodrigues.com/tags/fitness/</loc>
     <lastmod>2022-03-21T07:25:53+00:00</lastmod>
   </url><url>
@@ -9,9 +18,6 @@
     <lastmod>2022-03-21T07:25:53+00:00</lastmod>
   </url><url>
     <loc>https://tiagopbrodrigues.com/tags/health/</loc>
-    <lastmod>2022-03-21T07:25:53+00:00</lastmod>
-  </url><url>
-    <loc>https://tiagopbrodrigues.com/</loc>
     <lastmod>2022-03-21T07:25:53+00:00</lastmod>
   </url><url>
     <loc>https://tiagopbrodrigues.com/posts/navy-seal-training-8/</loc>
