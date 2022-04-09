@@ -1,5 +1,5 @@
 ---
-title: "How I Trained to Look Like an Navy Seal - Week 9"
+title: "How I Trained to Look Like a Navy Seal - Week 9"
 date: 2022-04-05T08:45:54+01:00
 draft: false
 toc: false
