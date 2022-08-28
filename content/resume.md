@@ -6,7 +6,7 @@ tags:
   - Work
 ---
 
-If you prefer a PDF version, you can find one [here](https://drive.google.com/file/d/1KwOkKca15Qu0sQ3muh21ADBqYabnHrEr/view?usp=sharing).
+If you prefer a PDF version, you can find one [here](https://drive.google.com/file/d/1H9jrU36P9h-HkcmEuV_ZWEQPsZBACPOX/view?usp=sharing).
 
 # Experience Summary
 
