@@ -10,11 +10,11 @@ If you prefer a PDF version, you can find one [here](https://drive.google.com/fi
 
 # Experience Summary
 
-I am a third-year student currently getting a bachelor’s degree in Informatics and Computer Engineering. I love getting involved in new environments and meeting new people, because only then can I develop as a person and reach new heights.
+I am a fourth-year student currently getting a masters degree in Informatics and Computer Engineering. I love getting involved in new environments and meeting new people, because only then can I develop as a person and reach new heights.
 
-During the summer of 2021, to challenge myself, I did a small internship at a company in my hometown, where I dealt with completely different circumstances compared to the ones faced in university, and had to learn new skills by myself, which in turn greatly improved my ability to learn on the fly and become even more passionate about this field.
+During the summer of 2021, to challenge myself, I did a small internship at a company in my hometown, where I dealt with completely different circumstances compared to the ones faced in university, and had to learn new skills by myself, which in turn greatly improved my ability to learn on the fly and become even more passionate about this field. Also, during that year, university presented me with some projects which led me to love web development and everything related to it, making me want to learn more and more about it.
 
-And now, during Christmas, my grandmother told me to choose a gift, and so I chose this! It is a great way to learn about a field I am starting to love more and more, and it is a great way to train and have a sandbox where I can try new things.
+And, during last Christmas, my grandmother told me to choose a gift, and so I chose this! It is a great way to learn about a field I am fascinated by, and it is a great way to train and have a sandbox where I can try new things.
 
 # Skills
 
@@ -26,46 +26,37 @@ And now, during Christmas, my grandmother told me to choose a gift, and so I cho
 
 ## Programming
 
-These are the languages I know best:
+These are the Languages and Frameworks I know best:
 
 - HTML, CSS and JavaScript - 3
-- C# - 3
+- Vue.js - 3
+- PHP and Laravel - 3
+- TailwindCSS - 3
+- PostgreSQL - 3
+- TypeScript - 2
+- Flutter - 2
 - C/C++ - 2
 - Java - 2
-- PHP - 2
-- PostgreSQL and SQLite - 2
-- Haskell - 2
 - Python - 2
-- TypeScript - 1
-- Rust - 1
-- Go - 1
+- Angular - 1
+- NestJS - 1
+- AdonisJS - 1
+- NuxtJS - 1
 
 ## Operating Systems
 
 - Linux (Arch Linux, Ubuntu) - 3
 - Windows 10 - 3
 
-## Frameworks
-
-- Bootstrap - 3
-- .NET - 3
-- Laravel - 2
-- Angular - 1
-- NestJs - 1
-- React - 1
-- TailwindCSS - 1
-- Flutter - 1
-
 ## Tools I use
 
 - Emacs (Doom Emacs) - 2
 - VSCode - 2
+- Figma - 2
 - Vim (NeoVim) - 2
 - Git/Github/GitLab 2
 - Hugo - 2
-- Figma - 1
 - LaTeX - 1
-- Visual Studio - 3
 
 # Projects
 
@@ -88,6 +79,45 @@ To do this I had to update the database to include the new tables, develop the f
 - Microsoft SQL Server - DBMS used to store the information.
 - HTML with Razor Templating Engine - Views and presentation of the information.
 - CSS and JavaScript - Visual styling and animations in the presented page.
+
+## Database and Web Applications Laboratory - Full Stack Web Developer
+
+#### From November 2021 to January 2021
+
+#### Description
+
+In the project assigned, we had to create a social network from scratch, while following an agile development process and going through every single possible artifact, from user stories, database design, mockups and even prototypes.
+
+It was the first full scale project we had, and I discovered that a lot of work goes to every stage of the process. Also, we used a framework for the first time, and I learned about most of the abstractions an MVC framework offers. Also, it was the first time we worked in a more structured style, with specific features being developed at specific times, which helped to understand the main priorities in the development cycle.
+
+The end result was a functioning social network deployed in a remote host, with a working database and even some integrations with 3rd party APIs. This was the project that really made me appreciate web development and enjoy it a lot.
+
+#### Technologies used
+
+- Laravel - The PHP framwork used for developing most of the application. Using the built-in ORM and SSR engine, it made development seamless
+- PostgresSQL - DBMS used to store the information, created remotely in a Docker container and managed with the Laravel ORM.
+- HTML with Blade Templating Engine - Views and presentation of the information, with SSR.
+- Bootstrap - Styling framework used to aid in development of a good-looking web app
+- Javascript - Used in small bits to make some of the information fetching dynamic, instead of having to refresh the pages everytime.
+
+## Capstone Project - Front-end Developer
+
+#### From March 2022 to June 2022
+
+#### Description
+
+In the capstone project, my team had the goal of creating a way for less technical people to manage a website's content, while creating a solution that was lighter and faster than modern Content Management Systems like Wordpress. The idea was to have something between the ease of use of a CMS and the speed of a Static Site Generator.
+
+The solution that we came up with was using an Excel spreadsheet as a database, making each sheet a table with a specific data model. Then, with a small API that we developed, that data could be injected into some Vue.js templates, creating the website in real time.
+
+In this project we had to manage ourselves as a team, and I assumed a role of managing the tasks each member would do, creating a sort-of-Agile methodology more adapted to our needs. In the end I learned a lot about Front-End development with Vue.js, and became even more amazed with this field. It was also fun to create something that might really be used in the future, and had such a simple but effective solution.
+
+#### Technologies used
+
+- Vue.js - Framwork used for developing the front-end of the application and injecting the data.
+- TailwindCSS - Styling framework that helped to create a responsive design for the website
+- Typescript - Language chosen to create the API and used throghout the project for enforcing type-safety everywhere
+- Excel - System used as storage for the website, with easy access to less technical people, but with really powerful features
 
 ## Personal - Installing and Configuring Arch Linux
 
@@ -134,7 +164,13 @@ Even though it is not perfect, I have learned a great deal from assembling this,
 
 # Education
 
-## July 2022 – Bachelor's Degree
+## Current – Masters Degree
+
+#### Informatics and Computer Engineering
+
+#### Faculty of Engineering of the University of Porto (FEUP)
+
+## July 2022 – Bachelors Degree
 
 #### Informatics and Computer Engineering
 
